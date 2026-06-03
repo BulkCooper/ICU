@@ -4752,6 +4752,14 @@
                             "Count": 1,
                             "DelayTime": 0,
                             "RespawnTime": 15
+                        },
+                        {
+                            "Name": "Mi-8",
+                            "Slang": "米-8中型运输直升机",
+                            "Icon": "map_transporthelo",
+                            "Count": 2,
+                            "DelayTime": 0,
+                            "RespawnTime": 5
                         }
                     ]
                 },
@@ -4799,8 +4807,8 @@
                             "Slang": "米-8中型运输直升机",
                             "Icon": "map_transporthelo",
                             "Count": 1,
-                            "DelayTime": 6,
-                            "RespawnTime": 20
+                            "DelayTime": 10,
+                            "RespawnTime": 5
                         }
                     ]
                 },
