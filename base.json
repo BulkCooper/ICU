@@ -4707,6 +4707,55 @@
                     ]
                 },
                 {
+                    "EnglishName": "35th Marine Brigade",
+                    "ChineseName": "第35海军陆战旅",
+                    "ButtonName": "第35海军陆战旅",
+                    "Icon": "T_AFU_35th_Marine_CombinedArms",
+                    "UnitType": "CombinedArms",
+                    "Vehicles": [
+                        {
+                            "Name": "Kozak-2M1 NSV",
+                            "Slang": "NSV哥萨克防雷车",
+                            "Icon": "map_jeep",
+                            "Count": 2,
+                            "DelayTime": 0,
+                            "RespawnTime": 5
+                        },
+                        {
+                            "Name": "MT-LB ZU-23",
+                            "Slang": "面条萝卜ZU-23防空车",
+                            "Icon": "map_antiair",
+                            "Count": 2,
+                            "DelayTime": 0,
+                            "RespawnTime": 5
+                        },
+                        {
+                            "Name": "BMP-1TS",
+                            "Slang": "BMP-1TS步兵战车",
+                            "Icon": "map_trackedifv",
+                            "Count": 2,
+                            "DelayTime": 0,
+                            "RespawnTime": 10
+                        },
+                        {
+                            "Name": "BTR-4",
+                            "Slang": "BTR-4步兵战车",
+                            "Icon": "map_ifv",
+                            "Count": 2,
+                            "DelayTime": 0,
+                            "RespawnTime": 10
+                        },
+                        {
+                            "Name": "T-64BM2 Bulat",
+                            "Slang": "T-64BM2主战坦克",
+                            "Icon": "map_tank",
+                            "Count": 1,
+                            "DelayTime": 0,
+                            "RespawnTime": 15
+                        }
+                    ]
+                },
+                {
                     "EnglishName": "28th Mechanized Brigade",
                     "ChineseName": "第28机械化旅",
                     "ButtonName": "第28机械化旅",
