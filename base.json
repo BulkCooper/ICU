@@ -5,6 +5,53 @@
             "ShortName": "ADF",
             "ButtonName": "ADF|澳军",
             "Icon": "flag_ADF",
+            "infatry":[
+                {
+                    "Name": "步兵队",
+                    "Icon": "map_inf",
+                    "sort": "0"
+                },
+                {
+                    "Name": "从铁矿石特别多的岛屿走出来的炮灰",
+                    "Icon": "map_inf",
+                    "sort": "1"
+                },
+                {
+                    "Name": "萌新队长时长9.1H跳过创建队伍检测创建超长队名并且不会起兵站",
+                    "Icon": "map_inf",
+                    "sort": "2"
+                },
+                {
+                    "Name": "拉点队",
+                    "Icon": "map_inf",
+                    "sort": "3"
+                },
+                {
+                    "Name": "支援队",
+                    "Icon": "map_inf",
+                    "sort": "4"
+                },
+                {
+                    "Name": "迫击炮支援队",
+                    "Icon": "map_inf",
+                    "sort": "5"
+                },
+                {
+                    "Name": "反坦克导弹支援队",
+                    "Icon": "map_inf",
+                    "sort": "6"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "7"
+                },
+                {
+                    "Name": "梦想构筑牢不可破的龟壳",
+                    "Icon": "map_inf",
+                    "sort": "8"
+                }
+                    ],
             "Unit": [
                 {
                     "EnglishName": "1st Battalion, Royal Australian Regiment",
@@ -160,6 +207,53 @@
             "ShortName": "BAF",
             "ButtonName": "BAF|英军",
             "Icon": "flag_BAF",
+            "infatry":[
+                {
+                    "Name": "步兵队",
+                    "Icon": "map_inf",
+                    "sort": "0"
+                },
+                {
+                    "Name": "小不列颠很快没有北爱尔兰联合不起来王国的优质战士",
+                    "Icon": "map_inf",
+                    "sort": "1"
+                },
+                {
+                    "Name": "萌新队长时长9.1H跳过创建队伍检测创建超长队名并且不会起兵站",
+                    "Icon": "map_inf",
+                    "sort": "2"
+                },
+                {
+                    "Name": "拉点队",
+                    "Icon": "map_inf",
+                    "sort": "3"
+                },
+                {
+                    "Name": "支援队",
+                    "Icon": "map_inf",
+                    "sort": "4"
+                },
+                {
+                    "Name": "迫击炮支援队",
+                    "Icon": "map_inf",
+                    "sort": "5"
+                },
+                {
+                    "Name": "反坦克导弹支援队",
+                    "Icon": "map_inf",
+                    "sort": "6"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "7"
+                },
+                {
+                    "Name": "梦想构筑牢不可破的龟壳",
+                    "Icon": "map_inf",
+                    "sort": "8"
+                }
+                    ],
             "Unit": [
                 {
                     "EnglishName": "3rd Division Battle Group",
@@ -429,6 +523,53 @@
             "ShortName": "CAF",
             "ButtonName": "CAF|加军",
             "Icon": "flag_CAF",
+            "infatry":[
+                {
+                    "Name": "步兵队",
+                    "Icon": "map_inf",
+                    "sort": "0"
+                },
+                {
+                    "Name": "被赋予叶子神力的伟大兵团",
+                    "Icon": "map_inf",
+                    "sort": "1"
+                },
+                {
+                    "Name": "萌新队长时长9.1H跳过创建队伍检测创建超长队名并且不会起兵站",
+                    "Icon": "map_inf",
+                    "sort": "2"
+                },
+                {
+                    "Name": "拉点队",
+                    "Icon": "map_inf",
+                    "sort": "3"
+                },
+                {
+                    "Name": "支援队",
+                    "Icon": "map_inf",
+                    "sort": "4"
+                },
+                {
+                    "Name": "迫击炮支援队",
+                    "Icon": "map_inf",
+                    "sort": "5"
+                },
+                {
+                    "Name": "反坦克导弹支援队",
+                    "Icon": "map_inf",
+                    "sort": "6"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "7"
+                },
+                {
+                    "Name": "梦想构筑牢不可破的龟壳",
+                    "Icon": "map_inf",
+                    "sort": "8"
+                }
+                    ],
             "Unit": [
                 {
                     "EnglishName": "1 Canadian Mechanized Brigade Group",
@@ -715,6 +856,48 @@
             "ShortName": "INS",
             "ButtonName": "INS|叛军",
             "Icon": "flag_INS",
+            "infatry":[
+                {
+                    "Name": "步兵队",
+                    "Icon": "map_inf",
+                    "sort": "0"
+                },
+                {
+                    "Name": "真主的子民",
+                    "Icon": "map_inf",
+                    "sort": "1"
+                },
+                {
+                    "Name": "只敬畏真主，绝不会向欺凌、敌人和侮辱低头",
+                    "Icon": "map_inf",
+                    "sort": "2"
+                },
+                {
+                    "Name": "拉点队",
+                    "Icon": "map_inf",
+                    "sort": "3"
+                },
+                {
+                    "Name": "支援队",
+                    "Icon": "map_inf",
+                    "sort": "4"
+                },
+                {
+                    "Name": "迫击炮支援队",
+                    "Icon": "map_inf",
+                    "sort": "5"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "6"
+                },
+                {
+                    "Name": "为了真主使用破油桶构筑牢不可破的龟壳",
+                    "Icon": "map_inf",
+                    "sort": "7"
+                }
+                    ],
             "Unit": [
                 {
                     "EnglishName": "Irregular Battle Group",
@@ -1089,6 +1272,53 @@
             "ShortName": "IMF",
             "ButtonName": "IMF|民兵",
             "Icon": "flag_IMF",
+            "infatry":[
+                {
+                    "Name": "步兵队",
+                    "Icon": "map_inf",
+                    "sort": "0"
+                },
+                {
+                    "Name": "伟大俄联邦的煎饼武装",
+                    "Icon": "map_inf",
+                    "sort": "1"
+                },
+                {
+                    "Name": "俄国有难，车必乱",
+                    "Icon": "map_inf",
+                    "sort": "2"
+                },
+                {
+                    "Name": "拉点队",
+                    "Icon": "map_inf",
+                    "sort": "3"
+                },
+                {
+                    "Name": "支援队",
+                    "Icon": "map_inf",
+                    "sort": "4"
+                },
+                {
+                    "Name": "迫击炮支援队",
+                    "Icon": "map_inf",
+                    "sort": "5"
+                },
+                {
+                    "Name": "反坦克导弹支援队",
+                    "Icon": "map_inf",
+                    "sort": "6"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "7"
+                },
+                {
+                    "Name": "构筑牢不可破的联盟龟壳",
+                    "Icon": "map_inf",
+                    "sort": "8"
+                }
+                    ],
             "Unit": [
                 {
                     "EnglishName": "1st Separate Guards Brigade",
@@ -1463,6 +1693,53 @@
             "ShortName": "GFI",
             "ButtonName": "GFI|伊朗",
             "Icon": "flag_GFI",
+            "infatry":[
+                {
+                    "Name": "步兵队",
+                    "Icon": "map_inf",
+                    "sort": "0"
+                },
+                {
+                    "Name": "圣火卫队",
+                    "Icon": "map_inf",
+                    "sort": "1"
+                },
+                {
+                    "Name": "伊斯兰革命卫队",
+                    "Icon": "map_inf",
+                    "sort": "2"
+                },
+                {
+                    "Name": "拉点队",
+                    "Icon": "map_inf",
+                    "sort": "3"
+                },
+                {
+                    "Name": "支援队",
+                    "Icon": "map_inf",
+                    "sort": "4"
+                },
+                {
+                    "Name": "迫击炮支援队",
+                    "Icon": "map_inf",
+                    "sort": "5"
+                },
+                {
+                    "Name": "反坦克导弹支援队",
+                    "Icon": "map_inf",
+                    "sort": "6"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "7"
+                },
+                {
+                    "Name": "战斧炸不烂龟壳",
+                    "Icon": "map_inf",
+                    "sort": "8"
+                }
+                    ],
             "Unit": [
                 {
                     "EnglishName": "21st Division",
@@ -1781,6 +2058,53 @@
             "ShortName": "PLA",
             "ButtonName": "PLA|解放军",
             "Icon": "flag_PLA",
+            "infatry":[
+                {
+                    "Name": "步兵队",
+                    "Icon": "map_inf",
+                    "sort": "0"
+                },
+                {
+                    "Name": "尖兵连",
+                    "Icon": "map_inf",
+                    "sort": "1"
+                },
+                {
+                    "Name": "共和国最优质的战士",
+                    "Icon": "map_inf",
+                    "sort": "2"
+                },
+                {
+                    "Name": "拉点队",
+                    "Icon": "map_inf",
+                    "sort": "3"
+                },
+                {
+                    "Name": "支援队",
+                    "Icon": "map_inf",
+                    "sort": "4"
+                },
+                {
+                    "Name": "迫击炮支援队",
+                    "Icon": "map_inf",
+                    "sort": "5"
+                },
+                {
+                    "Name": "反坦克导弹支援队",
+                    "Icon": "map_inf",
+                    "sort": "6"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "7"
+                },
+                {
+                    "Name": "中国制造牢不可破龟壳",
+                    "Icon": "map_inf",
+                    "sort": "8"
+                }
+                    ],
             "Unit": [
                 {
                     "EnglishName": "118th Combined Arms Brigade",
@@ -2147,6 +2471,53 @@
             "ShortName": "RGF",
             "ButtonName": "RGF|俄陆",
             "Icon": "flag_RGF",
+            "infatry":[
+                {
+                    "Name": "步兵队",
+                    "Icon": "map_inf",
+                    "sort": "0"
+                },
+                {
+                    "Name": "俄联邦勇士",
+                    "Icon": "map_inf",
+                    "sort": "1"
+                },
+                {
+                    "Name": "普京最忠诚的突击队",
+                    "Icon": "map_inf",
+                    "sort": "2"
+                },
+                {
+                    "Name": "拉点队",
+                    "Icon": "map_inf",
+                    "sort": "3"
+                },
+                {
+                    "Name": "支援队",
+                    "Icon": "map_inf",
+                    "sort": "4"
+                },
+                {
+                    "Name": "迫击炮支援队",
+                    "Icon": "map_inf",
+                    "sort": "5"
+                },
+                {
+                    "Name": "反坦克导弹支援队",
+                    "Icon": "map_inf",
+                    "sort": "6"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "7"
+                },
+                {
+                    "Name": "牢不可破的联盟龟壳",
+                    "Icon": "map_inf",
+                    "sort": "8"
+                }
+                    ],
             "Unit": [
                 {                                       
                     "EnglishName": "49th Combined Arms Army",
@@ -2465,6 +2836,53 @@
             "ShortName": "USA",
             "ButtonName": "USA|美陆",
             "Icon": "flag_USA",
+            "infatry":[
+                {
+                    "Name": "步兵队",
+                    "Icon": "map_inf",
+                    "sort": "0"
+                },
+                {
+                    "Name": "月薪三千刀玩什么命呐",
+                    "Icon": "map_inf",
+                    "sort": "1"
+                },
+                {
+                    "Name": "美利坚的优质战士",
+                    "Icon": "map_inf",
+                    "sort": "2"
+                },
+                {
+                    "Name": "拉点队",
+                    "Icon": "map_inf",
+                    "sort": "3"
+                },
+                {
+                    "Name": "支援队",
+                    "Icon": "map_inf",
+                    "sort": "4"
+                },
+                {
+                    "Name": "迫击炮支援队",
+                    "Icon": "map_inf",
+                    "sort": "5"
+                },
+                {
+                    "Name": "反坦克导弹支援队",
+                    "Icon": "map_inf",
+                    "sort": "6"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "7"
+                },
+                {
+                    "Name": "国会预算不足建出来的龟壳",
+                    "Icon": "map_inf",
+                    "sort": "8"
+                }
+                    ],
             "Unit": [
                 {
                     "EnglishName": "3rd Brigade Combat Team, 1st Infantry Division",
@@ -2856,6 +3274,53 @@
             "ShortName": "USMC",
             "ButtonName": "USMC|马润",
             "Icon": "flag_USMC",
+            "infatry":[
+                {
+                    "Name": "步兵队",
+                    "Icon": "map_inf",
+                    "sort": "0"
+                },
+                {
+                    "Name": "月薪三千刀玩什么命呐",
+                    "Icon": "map_inf",
+                    "sort": "1"
+                },
+                {
+                    "Name": "美利坚的优质战士",
+                    "Icon": "map_inf",
+                    "sort": "2"
+                },
+                {
+                    "Name": "拉点队",
+                    "Icon": "map_inf",
+                    "sort": "3"
+                },
+                {
+                    "Name": "支援队",
+                    "Icon": "map_inf",
+                    "sort": "4"
+                },
+                {
+                    "Name": "迫击炮支援队",
+                    "Icon": "map_inf",
+                    "sort": "5"
+                },
+                {
+                    "Name": "反坦克导弹支援队",
+                    "Icon": "map_inf",
+                    "sort": "6"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "7"
+                },
+                {
+                    "Name": "国会预算不足建出来的龟壳",
+                    "Icon": "map_inf",
+                    "sort": "8"
+                }
+                    ],
             "Unit": [
                 {
                     "EnglishName": "31st Marine Expeditionary Unit",
@@ -3142,6 +3607,53 @@
             "ShortName": "VDV",
             "ButtonName": "VDV|俄空降",
             "Icon": "flag_VDV",
+            "infatry":[
+                {
+                    "Name": "步兵队",
+                    "Icon": "map_inf",
+                    "sort": "0"
+                },
+                {
+                    "Name": "俄联邦勇士",
+                    "Icon": "map_inf",
+                    "sort": "1"
+                },
+                {
+                    "Name": "普京最忠诚的突击队",
+                    "Icon": "map_inf",
+                    "sort": "2"
+                },
+                {
+                    "Name": "拉点队",
+                    "Icon": "map_inf",
+                    "sort": "3"
+                },
+                {
+                    "Name": "支援队",
+                    "Icon": "map_inf",
+                    "sort": "4"
+                },
+                {
+                    "Name": "迫击炮支援队",
+                    "Icon": "map_inf",
+                    "sort": "5"
+                },
+                {
+                    "Name": "反坦克导弹支援队",
+                    "Icon": "map_inf",
+                    "sort": "6"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "7"
+                },
+                {
+                    "Name": "牢不可破的联盟龟壳",
+                    "Icon": "map_inf",
+                    "sort": "8"
+                }
+                    ],
             "Unit": [
                 {
                     "EnglishName": "7th Guards Mountain Air Assault Division",
@@ -3419,6 +3931,53 @@
             "ShortName": "PLANMC",
             "ButtonName": "PLAMC|马润",
             "Icon": "flag_PLANMC",
+            "infatry":[
+                {
+                    "Name": "步兵队",
+                    "Icon": "map_inf",
+                    "sort": "0"
+                },
+                {
+                    "Name": "尖兵连",
+                    "Icon": "map_inf",
+                    "sort": "1"
+                },
+                {
+                    "Name": "共和国最优质的战士",
+                    "Icon": "map_inf",
+                    "sort": "2"
+                },
+                {
+                    "Name": "拉点队",
+                    "Icon": "map_inf",
+                    "sort": "3"
+                },
+                {
+                    "Name": "支援队",
+                    "Icon": "map_inf",
+                    "sort": "4"
+                },
+                {
+                    "Name": "迫击炮支援队",
+                    "Icon": "map_inf",
+                    "sort": "5"
+                },
+                {
+                    "Name": "反坦克导弹支援队",
+                    "Icon": "map_inf",
+                    "sort": "6"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "7"
+                },
+                {
+                    "Name": "中国制造牢不可破龟壳",
+                    "Icon": "map_inf",
+                    "sort": "8"
+                }
+                    ],
             "Unit": [
                 {
                     "EnglishName": "5th Marine Brigade",
@@ -3656,6 +4215,53 @@
             "ShortName": "PLAAGF",
             "ButtonName": "PLAAGF|两栖",
             "Icon": "flag_PLAAGF",
+            "infatry":[
+                {
+                    "Name": "步兵队",
+                    "Icon": "map_inf",
+                    "sort": "0"
+                },
+                {
+                    "Name": "尖兵连",
+                    "Icon": "map_inf",
+                    "sort": "1"
+                },
+                {
+                    "Name": "共和国最优质的战士",
+                    "Icon": "map_inf",
+                    "sort": "2"
+                },
+                {
+                    "Name": "拉点队",
+                    "Icon": "map_inf",
+                    "sort": "3"
+                },
+                {
+                    "Name": "支援队",
+                    "Icon": "map_inf",
+                    "sort": "4"
+                },
+                {
+                    "Name": "迫击炮支援队",
+                    "Icon": "map_inf",
+                    "sort": "5"
+                },
+                {
+                    "Name": "反坦克导弹支援队",
+                    "Icon": "map_inf",
+                    "sort": "6"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "7"
+                },
+                {
+                    "Name": "中国制造牢不可破龟壳",
+                    "Icon": "map_inf",
+                    "sort": "8"
+                }
+                    ],
             "Unit": [
                 {
                     "EnglishName": "14th Amphibious Combined Arms Brigade",
@@ -3859,6 +4465,43 @@
             "ShortName": "TLF",
             "ButtonName": "TLF|土军",
             "Icon": "flag_TLF",
+            "infatry":[
+                {
+                    "Name": "步兵队",
+                    "Icon": "map_inf",
+                    "sort": "0"
+                },
+                {
+                    "Name": "奥斯曼雄鹰",
+                    "Icon": "map_inf",
+                    "sort": "1"
+                }
+                {
+                    "Name": "拉点队",
+                    "Icon": "map_inf",
+                    "sort": "3"
+                },
+                {
+                    "Name": "支援队",
+                    "Icon": "map_inf",
+                    "sort": "4"
+                },
+                {
+                    "Name": "迫击炮支援队",
+                    "Icon": "map_inf",
+                    "sort": "5"
+                },
+                {
+                    "Name": "反坦克导弹支援队",
+                    "Icon": "map_inf",
+                    "sort": "6"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "7"
+                }
+                    ],
             "Unit": [
                 {
                     "EnglishName": "1st Army Battle Group",
@@ -4185,6 +4828,43 @@
             "ShortName": "WPMC",
             "ButtonName": "WPMC|雇佣兵",
             "Icon": "flag_WPMC",
+            "infatry":[
+                {
+                    "Name": "步兵队",
+                    "Icon": "map_inf",
+                    "sort": "0"
+                },
+                {
+                    "Name": "月薪三千刀玩什么命呐",
+                    "Icon": "map_inf",
+                    "sort": "1"
+                },
+                {
+                    "Name": "拉点队",
+                    "Icon": "map_inf",
+                    "sort": "3"
+                },
+                {
+                    "Name": "支援队",
+                    "Icon": "map_inf",
+                    "sort": "4"
+                },
+                {
+                    "Name": "迫击炮支援队",
+                    "Icon": "map_inf",
+                    "sort": "5"
+                },
+                {
+                    "Name": "反坦克导弹支援队",
+                    "Icon": "map_inf",
+                    "sort": "6"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "7"
+                }
+                    ],
             "Unit": [
                 {
                     "EnglishName": "Manticore Security Task Force",
@@ -4428,6 +5108,53 @@
             "ShortName": "AFU",
             "ButtonName": "AFU|乌克兰",
             "Icon": "flag_AFU",
+            "infatry":[
+                {
+                    "Name": "步兵队",
+                    "Icon": "map_inf",
+                    "sort": "0"
+                },
+                {
+                    "Name": "泽圣近卫军",
+                    "Icon": "map_inf",
+                    "sort": "1"
+                },
+                {
+                    "Name": "万国牌优质战士",
+                    "Icon": "map_inf",
+                    "sort": "2"
+                },
+                {
+                    "Name": "拉点队",
+                    "Icon": "map_inf",
+                    "sort": "3"
+                },
+                {
+                    "Name": "支援队",
+                    "Icon": "map_inf",
+                    "sort": "4"
+                },
+                {
+                    "Name": "迫击炮支援队",
+                    "Icon": "map_inf",
+                    "sort": "5"
+                },
+                {
+                    "Name": "反坦克导弹支援队",
+                    "Icon": "map_inf",
+                    "sort": "6"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "7"
+                },
+                {
+                    "Name": "牢可破联盟龟壳",
+                    "Icon": "map_inf",
+                    "sort": "8"
+                }
+                    ],
             "Unit": [
                 {
                     "EnglishName": "11th Army Corps",
