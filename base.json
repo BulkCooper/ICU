@@ -868,34 +868,44 @@
                     "sort": "1"
                 },
                 {
-                    "Name": "只敬畏真主，绝不会向欺凌、敌人和侮辱低头",
+                    "Name": "拉点队",
                     "Icon": "map_inf",
                     "sort": "2"
                 },
                 {
-                    "Name": "拉点队",
+                    "Name": "IED",
                     "Icon": "map_inf",
                     "sort": "3"
                 },
                 {
-                    "Name": "支援队",
+                    "Name": "生物智能制导炸弹IED",
                     "Icon": "map_inf",
                     "sort": "4"
                 },
                 {
-                    "Name": "迫击炮支援队",
+                    "Name": "神风IED小队",
                     "Icon": "map_inf",
                     "sort": "5"
                 },
                 {
-                    "Name": "龟壳队",
+                    "Name": "支援队",
                     "Icon": "map_inf",
                     "sort": "6"
                 },
                 {
-                    "Name": "为了真主使用破油桶构筑牢不可破的龟壳",
+                    "Name": "迫击炮支援队",
                     "Icon": "map_inf",
                     "sort": "7"
+                },
+                {
+                    "Name": "龟壳队",
+                    "Icon": "map_inf",
+                    "sort": "8"
+                },
+                {
+                    "Name": "为了真主使用破油桶构筑的龟壳",
+                    "Icon": "map_inf",
+                    "sort": "9"
                 }
                     ],
             "Unit": [
