@@ -189,14 +189,6 @@
                             "Count": 1,
                             "DelayTime": 0,
                             "RespawnTime": 6
-                        },
-                        {
-                            "Name": "UH-60M",
-                            "Slang": "黑鹰UH-60M通用直升机",
-                            "Icon": "map_transporthelo",
-                            "Count": 1,
-                            "DelayTime": 0,
-                            "RespawnTime": 6
                         }
                     ]
                 }
@@ -1892,7 +1884,7 @@
                             "Name": "T-72S",
                             "Slang": "T-72S主战坦克",
                             "Icon": "map_tank",
-                            "Count": 1,
+                            "Count": 2,
                             "DelayTime": 0,
                             "RespawnTime": 20
                         },
@@ -1900,7 +1892,7 @@
                             "Name": "T62",
                             "Slang": "T62主战坦克",
                             "Icon": "map_tank",
-                            "Count": 2,
+                            "Count": 1,
                             "DelayTime": 20,
                             "RespawnTime": 15
                         }
@@ -3148,7 +3140,7 @@
                         {
                             "Name": "M7A3",
                             "Slang": "布莱德利M7A3装甲侦查车",
-                            "Icon": "map_trackedapc",
+                            "Icon": "map_trackedifv",
                             "Count": 2,
                             "DelayTime": 0,
                             "RespawnTime": 10
@@ -3190,7 +3182,7 @@
                             "Name": "M2A3",
                             "Slang": "布莱德利M2A3步兵战车",
                             "Icon": "map_trackedifv",
-                            "Count": 1,
+                            "Count": 3,
                             "RespawnTime": 15,
                             "DelayTime": 0
                         },
@@ -3252,20 +3244,20 @@
                             "RespawnTime": 6
                         },
                         {
-                            "Name": "M1A2",
-                            "Slang": "艾布拉姆斯M1A2主战坦克",
-                            "Icon": "map_tank",
-                            "Count": 1,
-                            "DelayTime": 30,
-                            "RespawnTime": 20
-                        },
-                        {
                             "Name": "M1064A3 M121",
                             "Slang": "M1064A3 M121自行迫击炮车",
                             "Icon": "map_trackedapc_artillery",
                             "Count": 2,
                             "DelayTime": 0,
                             "RespawnTime": 10
+                        },
+                        {
+                            "Name": "M1A2",
+                            "Slang": "艾布拉姆斯M1A2主战坦克",
+                            "Icon": "map_tank",
+                            "Count": 1,
+                            "DelayTime": 30,
+                            "RespawnTime": 20
                         },
                         {
                             "Name": "UH-60M",
@@ -3531,7 +3523,7 @@
                             "Name": "LAV-25",
                             "Slang": "LAV-25步兵战车",
                             "Icon": "map_ifv",
-                            "Count": 4,
+                            "Count": 3,
                             "DelayTime": 0,
                             "RespawnTime": 10
                         },
@@ -4605,7 +4597,7 @@
                             "Name": "M60T",
                             "Slang": "萨布拉M60T主战坦克",
                             "Icon": "map_tank",
-                            "Count": 2,
+                            "Count": 1,
                             "DelayTime": 20,
                             "RespawnTime": 20
                         },
@@ -4790,6 +4782,14 @@
                             "RespawnTime": 5
                         },
                         {
+                            "Name": "M113A2T M121",
+                            "Slang": "M113A2T M121自行迫击炮车",
+                            "Icon": "map_trackedapc_artillery",
+                            "Count": 2,
+                            "DelayTime": 0,
+                            "RespawnTime": 10
+                        },
+                        {
                             "Name": "ACV-15 M2",
                             "Slang": "ACV-15多用途装甲车 M2",
                             "Icon": "map_trackedapc",
@@ -4801,7 +4801,7 @@
                             "Name": "ACV-15 25mm",
                             "Slang": "ACV-15多用途装甲车25mm",
                             "Icon": "map_trackedifv",
-                            "Count": 4,
+                            "Count": 1,
                             "DelayTime": 0,
                             "RespawnTime": 15
                         },
@@ -4812,14 +4812,6 @@
                             "Count": 1,
                             "DelayTime": 20,
                             "RespawnTime": 20
-                        },
-                        {
-                            "Name": "M113A2T M121",
-                            "Slang": "M113A2T M121自行迫击炮车",
-                            "Icon": "map_trackedapc_artillery",
-                            "Count": 2,
-                            "DelayTime": 0,
-                            "RespawnTime": 10
                         },
                         {
                             "Name": "UH60 PKM",
