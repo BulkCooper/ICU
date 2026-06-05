@@ -51,7 +51,7 @@
                     "Icon": "map_inf",
                     "sort": "8"
                 }
-                    ],
+            ],
             "Unit": [
                 {
                     "EnglishName": "1st Battalion, Royal Australian Regiment",
@@ -245,7 +245,7 @@
                     "Icon": "map_inf",
                     "sort": "8"
                 }
-                    ],
+            ],
             "Unit": [
                 {
                     "EnglishName": "3rd Division Battle Group",
@@ -561,7 +561,7 @@
                     "Icon": "map_inf",
                     "sort": "8"
                 }
-                    ],
+            ],
             "Unit": [
                 {
                     "EnglishName": "1 Canadian Mechanized Brigade Group",
@@ -899,7 +899,7 @@
                     "Icon": "map_inf",
                     "sort": "9"
                 }
-                    ],
+            ],
             "Unit": [
                 {
                     "EnglishName": "Irregular Battle Group",
@@ -1320,7 +1320,7 @@
                     "Icon": "map_inf",
                     "sort": "8"
                 }
-                    ],
+            ],
             "Unit": [
                 {
                     "EnglishName": "1st Separate Guards Brigade",
@@ -1741,7 +1741,7 @@
                     "Icon": "map_inf",
                     "sort": "8"
                 }
-                    ],
+            ],
             "Unit": [
                 {
                     "EnglishName": "21st Division",
@@ -2106,7 +2106,7 @@
                     "Icon": "map_inf",
                     "sort": "8"
                 }
-                    ],
+            ],
             "Unit": [
                 {
                     "EnglishName": "118th Combined Arms Brigade",
@@ -2519,7 +2519,7 @@
                     "Icon": "map_inf",
                     "sort": "8"
                 }
-                    ],
+            ],
             "Unit": [
                 {                                       
                     "EnglishName": "49th Combined Arms Army",
@@ -2884,7 +2884,7 @@
                     "Icon": "map_inf",
                     "sort": "8"
                 }
-                    ],
+            ],
             "Unit": [
                 {
                     "EnglishName": "3rd Brigade Combat Team, 1st Infantry Division",
@@ -3322,7 +3322,7 @@
                     "Icon": "map_inf",
                     "sort": "8"
                 }
-                    ],
+            ],
             "Unit": [
                 {
                     "EnglishName": "31st Marine Expeditionary Unit",
@@ -3655,7 +3655,7 @@
                     "Icon": "map_inf",
                     "sort": "8"
                 }
-                    ],
+            ],
             "Unit": [
                 {
                     "EnglishName": "7th Guards Mountain Air Assault Division",
@@ -3979,7 +3979,7 @@
                     "Icon": "map_inf",
                     "sort": "8"
                 }
-                    ],
+            ],
             "Unit": [
                 {
                     "EnglishName": "5th Marine Brigade",
@@ -4263,7 +4263,7 @@
                     "Icon": "map_inf",
                     "sort": "8"
                 }
-                    ],
+            ],
             "Unit": [
                 {
                     "EnglishName": "14th Amphibious Combined Arms Brigade",
@@ -4477,7 +4477,7 @@
                     "Name": "奥斯曼雄鹰",
                     "Icon": "map_inf",
                     "sort": "1"
-                }
+                },
                 {
                     "Name": "拉点队",
                     "Icon": "map_inf",
@@ -4503,7 +4503,7 @@
                     "Icon": "map_inf",
                     "sort": "7"
                 }
-                    ],
+            ],
             "Unit": [
                 {
                     "EnglishName": "1st Army Battle Group",
@@ -4866,7 +4866,7 @@
                     "Icon": "map_inf",
                     "sort": "7"
                 }
-                    ],
+            ],
             "Unit": [
                 {
                     "EnglishName": "Manticore Security Task Force",
@@ -5156,7 +5156,7 @@
                     "Icon": "map_inf",
                     "sort": "8"
                 }
-                    ],
+            ],
             "Unit": [
                 {
                     "EnglishName": "11th Army Corps",
