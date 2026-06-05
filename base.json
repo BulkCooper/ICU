@@ -50,6 +50,16 @@
                     "Name": "梦想构筑牢不可破的龟壳",
                     "Icon": "map_inf",
                     "sort": "8"
+                },
+                {
+                    "Name": "挂机吃饭上厕所",
+                    "Icon": "map_inf",
+                    "sort": "9"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "10"
                 }
             ],
             "Unit": [
@@ -244,6 +254,16 @@
                     "Name": "梦想构筑牢不可破的龟壳",
                     "Icon": "map_inf",
                     "sort": "8"
+                },
+                {
+                    "Name": "挂机吃饭上厕所",
+                    "Icon": "map_inf",
+                    "sort": "9"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "10"
                 }
             ],
             "Unit": [
@@ -560,6 +580,16 @@
                     "Name": "梦想构筑牢不可破的龟壳",
                     "Icon": "map_inf",
                     "sort": "8"
+                },
+                {
+                    "Name": "挂机吃饭上厕所",
+                    "Icon": "map_inf",
+                    "sort": "9"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "10"
                 }
             ],
             "Unit": [
@@ -898,6 +928,16 @@
                     "Name": "为了真主使用破油桶构筑的龟壳",
                     "Icon": "map_inf",
                     "sort": "9"
+                },
+                {
+                    "Name": "挂机吃饭上厕所",
+                    "Icon": "map_inf",
+                    "sort": "10"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "11"
                 }
             ],
             "Unit": [
@@ -1286,7 +1326,7 @@
                     "sort": "1"
                 },
                 {
-                    "Name": "俄国有难，车必乱",
+                    "Name": "乌拉尔酒蒙子而且不会起兵站",
                     "Icon": "map_inf",
                     "sort": "2"
                 },
@@ -1319,6 +1359,16 @@
                     "Name": "构筑牢不可破的联盟龟壳",
                     "Icon": "map_inf",
                     "sort": "8"
+                },
+                {
+                    "Name": "挂机吃饭上厕所",
+                    "Icon": "map_inf",
+                    "sort": "9"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "10"
                 }
             ],
             "Unit": [
@@ -1740,6 +1790,16 @@
                     "Name": "战斧炸不烂龟壳",
                     "Icon": "map_inf",
                     "sort": "8"
+                },
+                {
+                    "Name": "挂机吃饭上厕所",
+                    "Icon": "map_inf",
+                    "sort": "9"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "10"
                 }
             ],
             "Unit": [
@@ -2105,6 +2165,16 @@
                     "Name": "中国制造牢不可破龟壳",
                     "Icon": "map_inf",
                     "sort": "8"
+                },
+                {
+                    "Name": "挂机吃饭上厕所",
+                    "Icon": "map_inf",
+                    "sort": "9"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "10"
                 }
             ],
             "Unit": [
@@ -2485,7 +2555,7 @@
                     "sort": "1"
                 },
                 {
-                    "Name": "普京最忠诚的突击队",
+                    "Name": "斯拉夫酒蒙子突击队",
                     "Icon": "map_inf",
                     "sort": "2"
                 },
@@ -2518,6 +2588,16 @@
                     "Name": "牢不可破的联盟龟壳",
                     "Icon": "map_inf",
                     "sort": "8"
+                },
+                {
+                    "Name": "挂机吃饭上厕所",
+                    "Icon": "map_inf",
+                    "sort": "9"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "10"
                 }
             ],
             "Unit": [
@@ -2883,6 +2963,16 @@
                     "Name": "国会预算不足建出来的龟壳",
                     "Icon": "map_inf",
                     "sort": "8"
+                },
+                {
+                    "Name": "挂机吃饭上厕所",
+                    "Icon": "map_inf",
+                    "sort": "9"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "10"
                 }
             ],
             "Unit": [
@@ -3321,6 +3411,16 @@
                     "Name": "国会预算不足建出来的龟壳",
                     "Icon": "map_inf",
                     "sort": "8"
+                },
+                {
+                    "Name": "挂机吃饭上厕所",
+                    "Icon": "map_inf",
+                    "sort": "9"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "10"
                 }
             ],
             "Unit": [
@@ -3616,12 +3716,12 @@
                     "sort": "0"
                 },
                 {
-                    "Name": "俄联邦勇士",
+                    "Name": "俄联邦优质战士",
                     "Icon": "map_inf",
                     "sort": "1"
                 },
                 {
-                    "Name": "普京最忠诚的突击队",
+                    "Name": "斯拉夫酒蒙子突击队",
                     "Icon": "map_inf",
                     "sort": "2"
                 },
@@ -3654,6 +3754,16 @@
                     "Name": "牢不可破的联盟龟壳",
                     "Icon": "map_inf",
                     "sort": "8"
+                },
+                {
+                    "Name": "挂机吃饭上厕所",
+                    "Icon": "map_inf",
+                    "sort": "9"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "10"
                 }
             ],
             "Unit": [
@@ -3978,6 +4088,16 @@
                     "Name": "中国制造牢不可破龟壳",
                     "Icon": "map_inf",
                     "sort": "8"
+                },
+                {
+                    "Name": "挂机吃饭上厕所",
+                    "Icon": "map_inf",
+                    "sort": "9"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "10"
                 }
             ],
             "Unit": [
@@ -4262,6 +4382,16 @@
                     "Name": "中国制造牢不可破龟壳",
                     "Icon": "map_inf",
                     "sort": "8"
+                },
+                {
+                    "Name": "挂机吃饭上厕所",
+                    "Icon": "map_inf",
+                    "sort": "9"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "10"
                 }
             ],
             "Unit": [
@@ -4502,6 +4632,16 @@
                     "Name": "龟壳队",
                     "Icon": "map_inf",
                     "sort": "7"
+                },
+                {
+                    "Name": "挂机吃饭上厕所",
+                    "Icon": "map_inf",
+                    "sort": "8"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "9"
                 }
             ],
             "Unit": [
@@ -4865,6 +5005,16 @@
                     "Name": "龟壳队",
                     "Icon": "map_inf",
                     "sort": "7"
+                },
+                {
+                    "Name": "挂机吃饭上厕所",
+                    "Icon": "map_inf",
+                    "sort": "8"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "9"
                 }
             ],
             "Unit": [
@@ -5155,6 +5305,16 @@
                     "Name": "牢可破联盟龟壳",
                     "Icon": "map_inf",
                     "sort": "8"
+                },
+                {
+                    "Name": "挂机吃饭上厕所",
+                    "Icon": "map_inf",
+                    "sort": "9"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "10"
                 }
             ],
             "Unit": [
