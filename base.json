@@ -19,7 +19,7 @@
                 {
                     "Name": "萌新队长时长9.1H跳过创建队伍检测创建超长队名并且不会起兵站",
                     "Icon": "map_inf",
-                    "sort": "2"
+                    "sort": "2" 
                 },
                 {
                     "Name": "拉点队",
@@ -905,39 +905,44 @@
                     "sort": "4"
                 },
                 {
-                    "Name": "神风IED小队",
+                    "Name": "IED中东苦力怕",
                     "Icon": "map_inf",
                     "sort": "5"
                 },
                 {
-                    "Name": "支援队",
+                    "Name": "神风IED小队",
                     "Icon": "map_inf",
                     "sort": "6"
                 },
                 {
-                    "Name": "迫击炮支援队",
+                    "Name": "支援队",
                     "Icon": "map_inf",
                     "sort": "7"
                 },
                 {
-                    "Name": "龟壳队",
+                    "Name": "迫击炮支援队",
                     "Icon": "map_inf",
                     "sort": "8"
                 },
                 {
-                    "Name": "为了真主使用破油桶构筑的龟壳",
+                    "Name": "龟壳队",
                     "Icon": "map_inf",
                     "sort": "9"
                 },
                 {
-                    "Name": "挂机吃饭上厕所",
+                    "Name": "为了真主使用破油桶构筑的龟壳",
                     "Icon": "map_inf",
                     "sort": "10"
                 },
                 {
-                    "Name": "OP执勤",
+                    "Name": "挂机吃饭上厕所",
                     "Icon": "map_inf",
                     "sort": "11"
+                },
+                {
+                    "Name": "OP执勤",
+                    "Icon": "map_inf",
+                    "sort": "12"
                 }
             ],
             "Unit": [
@@ -1586,7 +1591,7 @@
                             "Name": "BMP-1",
                             "Slang": "BMP-1步兵战车",
                             "Icon": "map_trackedifv",
-                            "Count": 1,
+                            "Count": 2,
                             "DelayTime": 0,
                             "RespawnTime": 10
                         },
@@ -1594,7 +1599,7 @@
                             "Name": "BMP-2",
                             "Slang": "BMP-2步兵战车",
                             "Icon": "map_trackedifv",
-                            "Count": 2,
+                            "Count": 3,
                             "DelayTime": 0,
                             "RespawnTime": 10
                         },
@@ -1805,8 +1810,8 @@
             "Unit": [
                 {
                     "EnglishName": "21st Division",
-                    "ChineseName": "第21步兵师\"哈姆扎\"",
-                    "ButtonName": "第21步兵师\"哈姆扎\"",
+                    "ChineseName": "第21步兵师哈姆扎",
+                    "ButtonName": "第21步兵师哈姆扎",
                     "Icon": "T_MEA_1st_LegionofBabylon_CombinedArms",
                     "UnitType": "CombinedArms",
                     "Vehicles": [
@@ -1862,8 +1867,8 @@
                 },
                 {
                     "EnglishName": "55th Airborne Brigade",
-                    "ChineseName": "第55空降旅\"西拉\"",
-                    "ButtonName": "第55空降旅\"西拉\"",
+                    "ChineseName": "第55空降旅",
+                    "ButtonName": "第55空降旅",
                     "Icon": "T_MEA_91st_Battalion_AirAssault",
                     "UnitType": "AirAssault",
                     "Vehicles": [
@@ -1892,8 +1897,8 @@
                             "RespawnTime": 6
                         },
                         {
-                            "Name": "BRDM-2 Spandrel",
-                            "Slang": "拱肩反坦克导弹BRDM-2装甲侦察车",
+                            "Name": "Safir Kornet",
+                            "Slang": "短号反坦克导弹萨菲尔吉普",
                             "Icon": "map_jeep_antitank",
                             "Count": 1,
                             "DelayTime": 0,
@@ -1944,7 +1949,7 @@
                             "Name": "T-72S",
                             "Slang": "T-72S主战坦克",
                             "Icon": "map_tank",
-                            "Count": 2,
+                            "Count": 1,
                             "DelayTime": 0,
                             "RespawnTime": 20
                         },
@@ -1952,7 +1957,7 @@
                             "Name": "T62",
                             "Slang": "T62主战坦克",
                             "Icon": "map_tank",
-                            "Count": 1,
+                            "Count": 2,
                             "DelayTime": 20,
                             "RespawnTime": 15
                         }
@@ -1960,8 +1965,8 @@
                 },
                 {
                     "EnglishName": "77th Mechanized Infantry Brigade",
-                    "ChineseName": "第77步兵师\"霍拉桑\"",
-                    "ButtonName": "第77步兵师\"霍拉桑\"",
+                    "ChineseName": "第77机械化步兵旅",
+                    "ButtonName": "第77机械化步兵旅",
                     "Icon": "T_MEA_3rd_King_Qadesh_Mechanized",
                     "UnitType": "Mechanized",
                     "Vehicles": [
@@ -3340,14 +3345,6 @@
                             "Count": 2,
                             "DelayTime": 0,
                             "RespawnTime": 10
-                        },
-                        {
-                            "Name": "M1A2",
-                            "Slang": "艾布拉姆斯M1A2主战坦克",
-                            "Icon": "map_tank",
-                            "Count": 1,
-                            "DelayTime": 30,
-                            "RespawnTime": 20
                         },
                         {
                             "Name": "UH-60M",
